@@ -1,0 +1,16 @@
+{
+  "name": "express-view-helpers",
+  "description": "Some view helpers for expressjs.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sdepold/express-view-helpers.git"
+  },
+  "author": "Sascha Depold <sascha@depold.com> (http://depold.com)",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "*"
+  }
+}
